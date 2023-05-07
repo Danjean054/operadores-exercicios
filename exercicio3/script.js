@@ -90,8 +90,7 @@ const calculoDoMesDeFev = salario + comissaoDeFev
 const calculoDoMesDeMar = salario + comissaoDeMar
 
 const calculoDoMesDeAbril = salario + comissaoDeAbril
-console.log(calculoDoMesDeAbril)
-console.log(descontoDoMesDeAbril);
+
 
 const calculoDoMesDeJunho = salario + comissaoDeJunho
 
